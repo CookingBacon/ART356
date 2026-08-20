@@ -9,7 +9,7 @@ This is a link-> [The Word](https:www.merriam-webster.com/word-of-the-day).
 ##
 
 Hey check out this **cool**
-![image of a dog](https://m.media-amazon.com/images/I/51VWu+gHail. AC UF1000,1000 QL80.jpg) 
+![image of a dog](https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg?h=430&w=710&hash=7FEB820D235A44B76B271060E03572C7)
 
 ### Journal Example
 Here is my journal
