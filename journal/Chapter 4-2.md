@@ -4,4 +4,6 @@ The second part of chapter 4 continues talking about constraints and affordances
 
 The next part Norman talks about is conventions or in my definition, human perception. People are trained and have learned to expect how certain objects should be used and how to interact with them. When your design goes against traditional expectations for how your design should behave, it becomes frustrating and disorienting to adjust to. Prime example of this being the destination-control elevator on page 148 which I still have a hard time picturing how to use it despite reading its description. It's a simple fact that standardized design makes your product easier to learn and use. On a random note, ever wonder why the hot water for a sink is the left lever and not the right? I think it's crazy that basically the entire human population of the US have just agreed that the left lever is hot water
 
+The cat in this meme is so right, it does in fact say Sasa Lele
+
 ![sasa lele meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6gnMpmnbwzzToIr_GE9NgoiWt_9U-hldZZUu-6YylrJv6RU94kHos3w&s=10)
